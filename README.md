@@ -1,0 +1,1 @@
+# Algoritmo-em-C-ANSI-que-gera-8-n-meros-inteiros-com-base-na-matr-cula
